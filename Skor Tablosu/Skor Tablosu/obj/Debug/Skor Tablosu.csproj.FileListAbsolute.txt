@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\10-M\Skor Tablosu\Skor Tablosu\bin\Debug\Skor Tablosu.exe.config
+C:\Users\user\Desktop\10-M\Skor Tablosu\Skor Tablosu\bin\Debug\Skor Tablosu.exe
+C:\Users\user\Desktop\10-M\Skor Tablosu\Skor Tablosu\bin\Debug\Skor Tablosu.pdb
+C:\Users\user\Desktop\10-M\Skor Tablosu\Skor Tablosu\obj\Debug\Skor Tablosu.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\10-M\Skor Tablosu\Skor Tablosu\obj\Debug\Skor_Tablosu.Form1.resources
+C:\Users\user\Desktop\10-M\Skor Tablosu\Skor Tablosu\obj\Debug\Skor_Tablosu.Properties.Resources.resources
+C:\Users\user\Desktop\10-M\Skor Tablosu\Skor Tablosu\obj\Debug\Skor Tablosu.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\10-M\Skor Tablosu\Skor Tablosu\obj\Debug\Skor Tablosu.exe
+C:\Users\user\Desktop\10-M\Skor Tablosu\Skor Tablosu\obj\Debug\Skor Tablosu.pdb
